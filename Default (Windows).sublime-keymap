@@ -1,0 +1,13 @@
+[
+	{ "keys": ["alt+p", "alt+u"], "command": "permute_lines", "args": {"operation": "unique"} },
+	{ "keys": ["alt+p", "alt+r"], "command": "run_macro_file", "args": {"file": "Packages/User/List to REGEX.sublime-macro"} },
+	{ "keys": ["alt+p", "alt+s"], "command": "sort_lines", "args": {"case_sensitive": false} },
+	{ "keys": ["ctrl+shift+a"], "command": "find_all_under" },
+	{
+	    "keys": ["alt+w"],
+	    "command": "toggle_setting",
+	    "args": {
+	        "setting": "word_wrap"
+	    }
+	}
+]

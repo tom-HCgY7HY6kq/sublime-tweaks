@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"ANSIescape",
+		"AutoFileName",
+		"Compare Side-By-Side",
+		"EML Syntax",
+		"HTMLBeautify",
+		"Package Control",
+		"PowerShell",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"SortBy",
+		"StringUtilities",
+		"Terminal",
+		"Toggle the View Read-Only",
+		"WordingStatus",
+	],
+}
